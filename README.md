@@ -7,6 +7,7 @@
 🤝 :  I enjoy collaborating with other talented individuals, I believe teamwork and shared ideas result in the most impactful and innovative projects. By working together, we can combine our strengths and bring out the best in each other. I believe learning is a lifelong journey, and I am eager to embrace new challenges and expand my creative and technical abilities. 
 
 connect with me:
+<a href=”https://www.linkedin.com/in/fatimah-ismael-54029452/"><img align=”left” src=”https://raw.githubusercontent.com/fatimah-ismael/fatimah-ismael/main/images/linkedin.svg" alt=”fatimah ismael | LinkedIn” width=”21px”/></a>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=fatimah-ismael)](https://github.com/fatimah-ismael)
 
