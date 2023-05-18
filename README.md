@@ -1,12 +1,20 @@
 ### Hi there, I'm Fatimah 👋
 
  🖥️ : Stepping into the world of software engineering has been an exciting journey for me.  I have always been fascinated by technology and its ability to solve complex problems and improve the way we live and work.
+ 
+ 
 
  ⚡ Fun fact: I love being creative, whether it be writing a line of code, putting together an outfit, experimenting with makeup, or baking desserts— all of it brings me satisfaction. 
 
+
+
  🤝 :  I enjoy collaborating with other talented individuals, I believe teamwork and shared ideas result in the most impactful and innovative projects. By working together, we can combine our strengths and bring out the best in each other. I believe learning is a lifelong journey, and I am eager to embrace new challenges and expand my creative and technical abilities. 
+ 
+ 
 
 🐱 Pronouns: She/Her
+
+
 
  connect with me:
  <a href="https://www.linkedin.com/in/fatimah-ismael-54029452/">
@@ -14,6 +22,7 @@
  </a>
  <a href="mailto: fatimahismael79@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
+ 
  
 
 ## Languages and Tools:
@@ -30,6 +39,8 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+
 
 
 
