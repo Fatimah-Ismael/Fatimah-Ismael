@@ -6,6 +6,8 @@
 
  🤝 :  I enjoy collaborating with other talented individuals, I believe teamwork and shared ideas result in the most impactful and innovative projects. By working together, we can combine our strengths and bring out the best in each other. I believe learning is a lifelong journey, and I am eager to embrace new challenges and expand my creative and technical abilities. 
 
+🐱 Pronouns: She/Her
+
  connect with me:
  <a href="https://www.linkedin.com/in/fatimah-ismael-54029452/">
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -32,7 +34,8 @@
 
 
 
-support:<a href="https://account.venmo.com/u/Fatimah-Ismael"> ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+support:<a href="https://account.venmo.com/u/Fatimah-Ismael"> 
+ ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimah-ismael&layout=compact)](https://github.com/fatimah-ismael)
