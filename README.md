@@ -29,14 +29,17 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+![Snake animation](https://github.com/Fatimah-Ismael/Fatimah-Ismael/blob/output/github-contribution-grid-snake.svg)
+
 
 support: ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=fatimah-ismael)](https://github.com/fatimah-ismael)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimah-ismael&layout=compact)](https://github.com/fatimah-ismael)
 
 <!--
 **Fatimah-Ismael/Fatimah-Ismael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=fatimah-ismael)](https://github.com/fatimah-ismael)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=fatimah-ismael&count_private=true)](https://github.com/fatimah-ismael)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimah-ismael&layout=compact)](https://github.com/fatimah-ismael)
 Here are some ideas to get you started:
