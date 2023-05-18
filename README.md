@@ -7,8 +7,8 @@
  🤝 :  I enjoy collaborating with other talented individuals, I believe teamwork and shared ideas result in the most impactful and innovative projects. By working together, we can combine our strengths and bring out the best in each other. I believe learning is a lifelong journey, and I am eager to embrace new challenges and expand my creative and technical abilities. 
 
  connect with me:
- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
+ [Linkedin](https://www.linkedin.com/in/fatimah-ismael-54029452/)
+
  
  📫 : fatimahismael@yahoo.com
 
