@@ -7,7 +7,11 @@
  🤝 :  I enjoy collaborating with other talented individuals, I believe teamwork and shared ideas result in the most impactful and innovative projects. By working together, we can combine our strengths and bring out the best in each other. I believe learning is a lifelong journey, and I am eager to embrace new challenges and expand my creative and technical abilities. 
 
  connect with me:
- [Linkedin](https://www.linkedin.com/in/fatimah-ismael-54029452/)
+ <a href="https://www.linkedin.com/in/fatimah-ismael-54029452/">
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ </a>
+
+ 
 
  
  📫 : fatimahismael@yahoo.com
@@ -30,11 +34,13 @@
 
 support: ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=fatimah-ismael)](https://github.com/fatimah-ismael)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimah-ismael&layout=compact)](https://github.com/fatimah-ismael)
 <!--
 **Fatimah-Ismael/Fatimah-Ismael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=fatimah-ismael)](https://github.com/fatimah-ismael)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimah-ismael&layout=compact)](https://github.com/fatimah-ismael)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
