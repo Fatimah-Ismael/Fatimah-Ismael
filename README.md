@@ -1,9 +1,7 @@
 ### <h1>Hi there, I'm Fatimah 👋</h1>
 
  🖥️ : Stepping into the world of software engineering has been an exciting journey for me.  I have always been fascinated by technology and its ability to solve complex problems and improve the way we live and work.
- 
-
- ⚡ Fun fact: I love being creative, whether it be writing a line of code, putting together an outfit, experimenting with makeup, or baking desserts— all of it brings me satisfaction. 
+  
 
 
  🤝 :  I enjoy collaborating with other talented individuals, I believe teamwork and shared ideas result in the most impactful and innovative projects. By working together, we can combine our strengths and bring out the best in each other. I believe learning is a lifelong journey, and I am eager to embrace new challenges and expand my creative and technical abilities. 
